@@ -73,7 +73,7 @@ If you find our work helpful, please consider citing:
 @article{zhang2025crossview,
   title={CrossView-GS: Cross-view Gaussian Splatting For Large-scale Scene Reconstruction},
   author={Zhang, Chenhao and Cao, Yuanping and Zhang, Lei},
-  journal={arXiv preprint arXiv:2501.01695},
+  journal={Computational Visual Media},
   year={2025}
 }
 ```
