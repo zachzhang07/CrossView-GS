@@ -1,0 +1,16 @@
+*.pyc
+.vscode
+temp*
+outputs*
+debug*
+log*
+wandb*
+*.bak
+data
+*build/*
+*__pycache__*
+tensorboard_3d
+screenshots
+*.so
+*.DS_Store
+*.idea

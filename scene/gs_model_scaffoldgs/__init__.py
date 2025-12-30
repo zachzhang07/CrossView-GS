@@ -1,0 +1,3 @@
+from scene.gs_model_scaffoldgs.base_model import GaussianModel
+from scene.gs_model_scaffoldgs.lod_model import GaussianLoDModel
+from scene.gs_model_scaffoldgs.base_model_tri import GaussianModelTri
